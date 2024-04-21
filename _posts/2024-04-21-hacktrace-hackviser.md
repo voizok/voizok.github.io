@@ -1,10 +1,9 @@
 ---
 title: Hackviser - HackTRace Walkthrough
-date: 2024-04-19
+date: 2024-04-21
 categories: [Hackviser]
 tags: [Walkthrough, CTF]
 ---
-
 
 ## Make sure you are connected via VPN or HackerBox using the Connect button located in the top right corner
 
