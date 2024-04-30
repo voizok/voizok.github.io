@@ -41,5 +41,3 @@ Following these practices empowers you to navigate Telegram with confidence, ens
 
 
 Thank you for reading!
-
-*Happy Hacking~*
