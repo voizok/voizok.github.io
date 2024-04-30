@@ -7,6 +7,8 @@ tags: [RCE,Telegram,Windows,pzw]
 
 # Telegram RCE Vulnerability Patched: Protecting Yourself from Digital Deception (pzw Files)
 
+![telegram](https://github.com/voizok/voizok.github.io/assets/110619000/c65ddce5-7561-447b-bf2d-84793679d0e9)
+
 ## A Flaw with a Familiar Face: Understanding the Telegram RCE Vulnerability
 
 Imagine this: you receive a video file from a friend on Telegram, eagerly anticipating a funny clip or a heartwarming update. But with a single click, your world turns upside down. A cleverly disguised malicious file infects your computer, granting attackers remote control. This is precisely what transpired with a recent remote code execution (RCE) vulnerability in Telegram for Windows, caused by a simple typo.
