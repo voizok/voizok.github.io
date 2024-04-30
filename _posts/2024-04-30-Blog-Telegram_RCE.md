@@ -5,8 +5,6 @@ categories: [Vulnerability]
 tags: [RCE,Telegram,Windows,pzw]
 ---
 
-# Telegram RCE Vulnerability Patched: Protecting Yourself from Digital Deception (pzw Files)
-
 ![telegram](https://github.com/voizok/voizok.github.io/assets/110619000/c65ddce5-7561-447b-bf2d-84793679d0e9)
 
 ## A Flaw with a Familiar Face: Understanding the Telegram RCE Vulnerability
