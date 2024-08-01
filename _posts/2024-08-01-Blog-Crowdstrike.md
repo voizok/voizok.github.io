@@ -5,7 +5,7 @@ categories: [Vulnerability]
 tags: [Windows,CrowdStrike,Cybersecurity,BSOD]
 ---
 
-
+![telegram](https://miro.medium.com/v2/resize:fit:720/format:webp/1*vpD82q4LnJZjoq76XbUhcA.jpeg)
 
 **TL;DR**  
 CrowdStrike, a popular US cybersecurity company, experienced a significant issue with its Falcon product, leading to widespread Windows systems failures. On July 19, 2024, a patch was rolled out that caused Windows machines to fail during boot, showing the "Blue Screen of Death" (BSOD). IT professionals had to manually boot affected systems into safe mode and remove a problematic channel file to restore functionality.
