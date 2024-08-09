@@ -13,7 +13,65 @@ Nessus is a vulnerability scanner that can scan and assess the complete attack s
 
 ## Setting up Nessus
 
-Nessus can be installed on Windows, Linux, Mac, Docker, and even on a Raspberry Pi!
+Nessus can be installed on Windows, Linux, Mac, Docker, and even on a Raspberry Pi!. I prefer using it with Windows
+
+## Step 1: Download Nessus Essentials
+
+- Open a web browser and navigate to the [Tenable website](https://www.tenable.com/products/nessus/nessus-essentials).
+- Click on the **“Download Nessus Essentials”** button to initiate the download process.
+
+![Nessus Download](https://cdn.discordapp.com/attachments/1271416908679348307/1271473574066126878/nessus-download-windows.png?ex=66b7778a&is=66b6260a&hm=400f9d585c647b2aac124e15c42021d9c3cf43fe8a381a4356105aed9baf71fb&)
+
+- You will be prompted to create a Tenable account or log in if you already have one. Follow the instructions to complete the registration/login process.
+- Once logged in, you will be able to download the Nessus Essentials installer for Windows.
+
+## Step 2: Run the Installer
+
+- Locate the downloaded Nessus Essentials installer file on your Windows system (usually in the “Downloads” folder).
+- Double-click on the installer file to launch the installation wizard.
+- If prompted by User Account Control (UAC), click **“Yes”** to allow the installer to make changes to your system.
+- The installation wizard will guide you through the installation process. Click **“Next”** to proceed.
+
+![Nessus Installer ](https://cdn.discordapp.com/attachments/1271416908679348307/1271475388261859380/nessus-installShield-wizard.png?ex=66b7793b&is=66b627bb&hm=c504eaa4100843f8c7ce7d53aa01919de24dcfac7303754ec5131ac08f08bfc9&)
+
+## Step 3: Accept the License Agreement
+
+- Read the Nessus Essentials License Agreement carefully.
+- If you agree to the terms of the license agreement, select the checkbox indicating your acceptance.
+- Click **“Next”** to continue with the installation.
+
+![Nessus License](https://cdn.discordapp.com/attachments/1271416908679348307/1271475699630346313/essus-licens-agreement.png?ex=66b77985&is=66b62805&hm=78ec7e3765d617103ac568b173000390a7912510d243df9e0b889ea0828fc63b&)
+
+## Step 4: Choose Installation Directory
+
+- By default, Nessus Essentials will be installed in the `C:\Program Files\Tenable\Nessus` directory.
+
+![Nessus File Location](https://cdn.discordapp.com/attachments/1271416908679348307/1271475920426893454/nessus-destination-folder.png?ex=66b779ba&is=66b6283a&hm=7968218fb2c680c871ce30701e7634470da42cfc4336694ee80481e60643c037&)
+
+- If you wish to change the installation directory, click on the **“Change”** button and select a different location.
+- Click **“Next”** to proceed.
+
+## Step 5: Start the Installation
+
+- Review the installation summary to ensure that all settings are correct.
+- Click on the **“Install”** button to begin the installation process.
+
+![Nessus Installation](https://cdn.discordapp.com/attachments/1271416908679348307/1271476226384597002/begin-nessus-installation-windows.png?ex=66b77a03&is=66b62883&hm=98a89a8971ab4c85e1ff7c96b86c087bee50662575c592de4bfc5b73d4e20720&)
+
+- The installer will extract and install the necessary files to your system. This may take a few moments to complete.
+
+## Step 6: Complete the Installation
+
+- Once the installation is complete, click on the **“Finish”** button to exit the installer.
+- Nessus Essentials is now installed on your Windows system.
+
+## Step 7: Access Nessus Web Interface
+
+- Open a web browser on your Windows system.
+- In the address bar, type `https://localhost:8834` and press **Enter**.
+- You will be redirected to the Nessus login page.
+
+![Nessus Start](https://cdn.discordapp.com/attachments/1271416908679348307/1271476904360415305/nessus-connect-via-SSL.png?ex=66b77aa4&is=66b62924&hm=3252fea72badd100cc7c53bf5ec57de6e6ceb45b4789266b32053ffe7bed1b2e&)
 
 On the first launch of Nessus, you need to register for Nessus Essentials to be able to use it for free.
 
