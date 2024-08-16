@@ -5,7 +5,8 @@ categories: [Cybersecurity,Vulnerability Assessment,Data Protection,Application 
 tags: [WhatsApp ,Security Testing,Cyber Threats,Malware Prevention,Security Vulnerabilities]
 ---
 
-![WhatsApp](https://cdn.discordapp.com/attachments/1271416908679348307/1273304486588448860/file-4aXQc5Iv4olYpdmXPqBdwyfF.png?ex=66be20b6&is=66bccf36&hm=7653d6a9753dec3f61cfcce74d71c4e53db3ea2572e6b8077510b44f49acc0b3&)
+![image](https://github.com/user-attachments/assets/1afc2bb5-f5fa-4ab4-9251-f3d47302d095)
+
 
 In the ever-evolving landscape of cybersecurity, messaging platforms must continuously address vulnerabilities that could lead to exploitation. A recent discovery regarding WhatsApp's desktop application for Windows raises critical questions about file handling and security measures. This blog delves into the implications of WhatsApp's ability to execute certain file types without alerting users, highlighting potential risks and offering insights for users and developers alike.
 
