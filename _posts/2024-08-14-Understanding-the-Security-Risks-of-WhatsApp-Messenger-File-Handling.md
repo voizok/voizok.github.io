@@ -2,7 +2,7 @@
 title: Understanding the Security Risks of WhatsApp Messenger's File Handling
 description: This blog exposes a critical vulnerability in WhatsApp's Windows desktop app, which allows Python and PHP scripts to bypass security measures and execute without warnings. It highlights the risks and offers practical tips for users to protect themselves.
 date: 2024-08-14
-categories: [Cybersecurity,Vulnerability Assessment,Data Protection,Application Security,]
+categories: [Vulnerability]
 tags: [WhatsApp ,Security Testing,Cyber Threats,Malware Prevention,Security Vulnerabilities]
 image:
   path: thbnls/whatsapp.png
