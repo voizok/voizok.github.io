@@ -1,7 +1,7 @@
 ---
 title: Understanding the CrowdStrike Falcon Update Fail - A Deep Dive into the EDR Breakdown
 description: A faulty update to CrowdStrike's Falcon EDR product caused widespread Windows system failures, resulting in a Blue Screen of Death (BSOD) and boot loops. This incident highlights the risks associated with rapid update deployments and underscores the need for improved testing and response strategies. Discover the details of the failure and the lessons learned from this major cybersecurity event.
-date: 2024-08-17
+date: 2024-08-01
 categories: [Vulnerability]
 tags: [Windows,CrowdStrike,Cybersecurity,BSOD]
 image:
