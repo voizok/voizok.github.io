@@ -145,14 +145,7 @@ After setting up the Splunk forwarder, follow these steps to check if failed log
 ![image](https://github.com/user-attachments/assets/1c5f7a27-a9f5-40ac-bea1-37c4e1cb2f85)
 
 
-Next we need to set the alert for the failed logins and Brute forcing. Select alert from the dropdown list of save as option. Then change the alert settings
-
-![image](https://github.com/user-attachments/assets/31717a8f-ff1a-425c-b87b-1e5cf6e17381)
-
-
-Here’s a straightforward guide for setting up and testing alerts for brute force attacks in Splunk:
-
-image_uri:
+Next we need to set the alert for the failed logins and Brute forcing. Select alert from the dropdown list of save as option. Then change the alert settings. Here’s a straightforward guide for setting up and testing alerts for brute force attacks in Splunk:
 
 ## Kali Brute Force Alert Setup and Testing
 
@@ -167,6 +160,8 @@ image_uri:
    - Go to the `Activity` option in Splunk.
    - Select `Triggered Alerts`.
    - Look for the alert corresponding to the failed login attempts.
+  
+   ![image](https://github.com/user-attachments/assets/31717a8f-ff1a-425c-b87b-1e5cf6e17381)
 
 ### 2. Test Brute Force Attack
 1. **Brute Force Kali Linux**
