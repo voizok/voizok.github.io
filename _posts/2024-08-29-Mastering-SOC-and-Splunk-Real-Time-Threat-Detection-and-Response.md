@@ -2,8 +2,13 @@
 title: Mastering SOC and Splunk - Real-Time Threat Detection and Response
 description: This blog explores the critical role of Security Operations Centers (SOC) in real-time threat detection and response, highlighting key functions like monitoring, investigation, and response. It also demonstrates how Splunk enhances SOC capabilities with powerful data analytics, log management, and alerting features to protect against cyber threats.
 date: 2024-08-29
-categories: [Cybersecurity]
-tags: [Security Operations Center (SOC) ,Threat Detection ,Log Management,SIEM]
+categories:
+  - Cybersecurity
+tags:
+  - Security Operations Center (SOC)
+  - Threat Detection
+  - Log Management
+  - SIEM
 image:
   path: thbnls/splunk_soc.png
 ---
