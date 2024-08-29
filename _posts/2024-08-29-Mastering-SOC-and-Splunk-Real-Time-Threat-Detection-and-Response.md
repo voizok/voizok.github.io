@@ -110,11 +110,13 @@ Finally, restart Splunk to apply the changes:
 sudo ./splunk restart
 ```
 
-image_url:
+![image](https://github.com/user-attachments/assets/1c7e180e-5290-4d5d-8404-086eaf30e588)
+
 
 Then start the Splunk enterprise to check whether the log is collected or not. Start the Splunk enterprise and select search and reporting then select data summary there we can see the log of the event.
 
-Image_url:
+![image](https://github.com/user-attachments/assets/8ee4eb34-bdb2-4187-97c1-86bbaf94d94f)
+
 
 # Checking Failed Login Attempts in Splunk
 
@@ -140,11 +142,13 @@ After setting up the Splunk forwarder, follow these steps to check if failed log
      ```
  - You should see the log entry for the failed login attempt.
 
-Image_uri :
+![image](https://github.com/user-attachments/assets/1c5f7a27-a9f5-40ac-bea1-37c4e1cb2f85)
+
 
 Next we need to set the alert for the failed logins and Brute forcing. Select alert from the dropdown list of save as option. Then change the alert settings
 
-image_uri:
+![image](https://github.com/user-attachments/assets/31717a8f-ff1a-425c-b87b-1e5cf6e17381)
+
 
 Here’s a straightforward guide for setting up and testing alerts for brute force attacks in Splunk:
 
@@ -182,17 +186,17 @@ image_uri:
      ```
    
    - Replace `(username)` with the target username and `(Kali Linux IP)` with the IP address of the Ubuntu machine.
+     
+  
+   ![image](https://github.com/user-attachments/assets/ba3ac95d-700c-47bb-bf78-fb3b5ca47bc5)
+
 
 ### 3. Verify Alerts
 - Check Splunk to ensure that the brute force alert has been triggered and is visible in the `Triggered Alerts`.
 
-image:
-
-
 Then check the Splunk enterprise for the alert of the brute forcing.Then check the Splunk enterprise for the alert of the brute forcing.
 
-image :
-
+![image](https://github.com/user-attachments/assets/b25be487-6da9-4bf3-9e70-694a2628b6ce)
 
 Splunk’s ability to trigger alerts in response to specific events, such as failed login attempts or brute force attacks, is a crucial feature for SOC teams. These alerts allow for immediate action, minimizing the impact of potential security breaches.
 
