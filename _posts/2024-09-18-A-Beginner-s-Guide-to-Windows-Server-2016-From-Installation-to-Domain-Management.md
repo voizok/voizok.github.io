@@ -14,8 +14,6 @@ Windows Server is a family of operating systems designed by Microsoft to support
 
 Windows Server provides enhanced layers of security, enabling organizations to efficiently manage users, devices, and applications while preventing potential attacks. This version not only helps mitigate the damage in case of an attack but also enhances the ability to detect suspicious activity
 
-![image]()
-
 #### **Step-by-Step Guide to Installing Windows Server 2016**
 
 **Prerequisites**
@@ -32,7 +30,9 @@ Log in to your Windows Server 2016 using administrative credentials. Once logged
 2. Navigate to the **Dashboard**.
 3. Click on **Add roles and features**.
 
-![image]()
+
+![image-001](https://github.com/user-attachments/assets/8a94b807-0774-4db5-b15d-a1cb3b9021db)
+
 
 This will begin the process of installing the Active Directory Domain Services (ADDS), which is essential for managing domains, users, and permissions.
 
@@ -42,7 +42,9 @@ After the ADDS role is installed, promote the server to a Domain Controller by s
 
 During this process, the **Prerequisites Check** will ensure all requirements are met. Once successfully completed,click **Install**. After the installation, reboot the server.
 
-![image]()
+
+![image-002](https://github.com/user-attachments/assets/ab97c4d4-f2fa-487e-847d-d5077b08f724)
+
 
 #### **Step 3: Verifying Domain Controller Installation**
 
@@ -64,7 +66,8 @@ objects. Here's how to create a forest:
 
 The forest will now act as the foundation for managing your company's infrastructure.
 
-![image]()
+
+![image-003](https://github.com/user-attachments/assets/43983a55-c138-4f9f-b6bd-caae8bd650af)
 
 
 #### **Managing Active Directory Services**
@@ -76,7 +79,8 @@ Windows Server 2016 comes with several built-in services that aid in efficient m
 3. **Domain Name Server (DNS)**: Provides IP address translation services for domain names.
 4. **File and Storage Services**: Manages file shares and storage volumes.
 
-![image]()
+
+![image-004](https://github.com/user-attachments/assets/e33197d6-7f34-457f-b6c7-0e8de09a1c87)
 
 
 #### **Adding Users to the Active Directory**
@@ -95,34 +99,43 @@ By categorizing users into specific roles, you can streamline access control and
 
 **Tools -> Option -> Active Directory Users And Computers**
 
-![image]()
+![image-005](https://github.com/user-attachments/assets/8c7fd43b-fda6-4436-bee1-cbdb3bf0cf3f)
 
-![image]()
+
+![image-007](https://github.com/user-attachments/assets/b4deab1b-c37d-49d8-a160-3b7a7196ac06)
 
 
 #### **Configuring User Login and Security**
 
 To enhance security, Windows Server 2016 allows admins to set user login hours. This ensures that users cannot access the server outside of working hours,reducing the risk of unauthorized access. Additionally, admins can set account expiration dates and configure local login permissions.
 
-![image]()
 
-![image]()
+![image-008](https://github.com/user-attachments/assets/28b0f09c-9943-45bf-99f6-c7f6959ed722)
+
 
 The users were provided the login hours so to ensure that they can’taccess the server or client pc in other than working hours and will also ensure any un authorised access which ensure client and database security
 
-![image]()
+
+![image-009](https://github.com/user-attachments/assets/5192d1e6-df24-4c96-a6aa-6c1341e1ed5e)
+
 
 The client account expiry set according to access token to acces in time to access the clients system users can login in the working of office time . Then Set Local Login Permission In order to Access the System Of The Client
 
-![image]()
+
+![image-010](https://github.com/user-attachments/assets/3ffb0ffc-15cc-4577-a066-170e0469023f)
+
 
 Providing the Users Permissions to Access Needed The credentials provided By the Admins The Servers Provide Additional Security to the users if login .
+
+![voizok github io pdf-image-011](https://github.com/user-attachments/assets/81b0709b-fdcf-47c5-a814-38442a286a77)
+
 
 #### **Providing Access to the Users**
 
 Client PCs can also be added to the domain (e.g., XYZ.net), acting as access points for users. Each user must provide the credentials assigned by the administrator to log into the domain.
 
-![image]()
+![image-012](https://github.com/user-attachments/assets/d1a1d6b0-2cd3-434a-8001-34ef67cb8e6d)
+
 
 #### **Conclusion**
 Windows Server 2016 offers a highly secure and efficient platform for managing enterprise operations. With its
