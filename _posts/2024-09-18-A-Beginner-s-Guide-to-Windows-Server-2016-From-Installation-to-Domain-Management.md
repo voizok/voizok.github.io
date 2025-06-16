@@ -5,7 +5,7 @@ date: 2024-09-18
 categories: [Active Directory]
 tags: [Windows Server 2016 ,Server Setup ,Active Directory ,Server Configuration ,Domain Controller]
 image:
-  path: thbnls/ad.png
+  path: thbnls/ad.png.jpg
 ---
 
 #### **Introduction to Windows Server 2016**
