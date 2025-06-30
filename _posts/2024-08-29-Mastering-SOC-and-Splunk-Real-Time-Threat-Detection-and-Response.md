@@ -10,7 +10,7 @@ tags:
   - Log Management
   - SIEM
 image:
-  path: thbnls/splunk_soc.png
+  path: thbnls/splunk_soc.jpg
 ---
 
 In today's digital landscape, the importance of a robust cybersecurity framework cannot be overstated. Organizations worldwide are constantly under threat from cyberattacks, making the role of Security Operations Centers (SOC) and tools like Splunk pivotal in safeguarding critical assets. This blog explores the fundamental aspects of SOC, its components, and how Splunk plays a crucial role in monitoring and responding to security incidents.
