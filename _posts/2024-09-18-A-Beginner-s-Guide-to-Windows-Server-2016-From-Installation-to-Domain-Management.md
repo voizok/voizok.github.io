@@ -5,7 +5,7 @@ date: 2024-09-18
 categories: [Active Directory]
 tags: [Windows Server 2016 ,Server Setup ,Active Directory ,Server Configuration ,Domain Controller]
 image:
-  path: thbnls/ad.png.jpg
+  path: https://cdn.discordapp.com/attachments/1271416908679348307/1536013472607895552/ad.png.png?ex=6a79db85&is=6a788a05&hm=067098c762fca7e04f1407811807d371d57f74118673b26317b3486285736935&
 ---
 
 #### **Introduction to Windows Server 2016**
